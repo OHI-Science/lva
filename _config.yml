@@ -13,7 +13,7 @@ git_repo:    lva
 git_slug:    OHI-Science/lva
 app_url:     http://ohi-science.nceas.ucsb.edu/lva
 
-default_branch_scenario: subcountry2014/published
+default_branch_scenario: published/subcountry2014
 
 # Jekyll configuration
 
